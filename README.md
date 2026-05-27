@@ -1,10 +1,4 @@
-# Cybersecurity Practical Portfolio
 
-**Course:** Certified Security Professional (CSP) — HackerSchool  
-**Instructor:** Kiran M  
-**Batch Start:** 09 March 2026  
-**Practical Labs Started:** 22 April 2026  
-**Status:** Active / Ongoing
 
 ---
 
