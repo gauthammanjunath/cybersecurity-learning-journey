@@ -2,15 +2,19 @@
 
 Master's student focused on Cybersecurity, Active Directory Security, Blue Team Operations, and Penetration Testing.
 
-## Skills
-- Linux
-- Windows
-- Active Directory
-- Networking
-- Nmap
-- Metasploit
-- Pivoting
+All activities are conducted in isolated lab environments for educational and research purposes only.
+
+#Skills
+- Linux Administration
+- Windows Security
+- Active Directory Security
+- TCP/IP Networking
+- Vulnerability Assessment
+- Penetration Testing
 - Privilege Escalation
+- Network Pivoting
+- Security Enumeration
+- Web Application Security
 
 ## Featured Projects
 
